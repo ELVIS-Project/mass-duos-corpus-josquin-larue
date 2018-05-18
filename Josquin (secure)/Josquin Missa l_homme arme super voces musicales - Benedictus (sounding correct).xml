@@ -96,9 +96,9 @@
    </score-instrument>
   </score-part>
   <score-part id="P2">
-   <part-name>Bassus I</part-name>
+   <part-name>Bassus II</part-name>
    <part-name-display>
-    <display-text>Bassus I</display-text>
+    <display-text>Bassus II</display-text>
    </part-name-display>
    <score-instrument id="P2-I1">
     <instrument-name>Bass (2)</instrument-name>
