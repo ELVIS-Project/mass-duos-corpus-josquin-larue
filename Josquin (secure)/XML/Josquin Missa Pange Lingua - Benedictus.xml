@@ -6,11 +6,12 @@
  </work>
  <identification>
   <creator type="composer">Josquin des Pres</creator>
+  <creator type="arranger">http://josquin.stanford.edu/work/?id=Jos0403</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2018-03-05</encoding-date>
+   <encoding-date>2018-07-23</encoding-date>
    <encoder>Jonathan Stuchbery</encoder>
-   <software>Sibelius 8.7.2</software>
+   <software>Sibelius 18.5.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -151,13 +152,6 @@
      <octave-change>-1</octave-change>
     </transpose>
    </attributes>
-   <direction>
-    <direction-type>
-     <other-direction default-y="-20" print-object="no">Prolation</other-direction>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
    <note default-x="75">
     <rest />
     <duration>2048</duration>
@@ -2196,13 +2190,6 @@
     </clef>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <direction>
-    <direction-type>
-     <other-direction default-y="-21" print-object="no">Prolation</other-direction>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
    <note color="#000000" default-x="95">
     <pitch>
      <step>A</step>
