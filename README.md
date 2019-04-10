@@ -7,13 +7,13 @@ This dataset was created as part of corpus research project in the context of th
 
 The JLSDD (Josquin La Rue Secure Duos Dataset) consists of:
 
-    33 secure Josquin duos (Sibelius, Music XML, MIDI, MEI, **kern, and PDF)
-    44 secure La Rue duos (Sibelius, Music XML, MIDI, MEI, **kern, and PDF)
-    The Sibelius templates used to create the corpus
+- 33 secure Josquin duos (Sibelius, Music XML, MIDI, MEI, **kern, and PDF)
+- 44 secure La Rue duos (Sibelius, Music XML, MIDI, MEI, **kern, and PDF)
+- The Sibelius templates used to create the corpus
 
 If you use the dataset, please cite the following work:
 
-    Cumming, Julie E., Cory McKay, Jonathan Stuchbery, and Ichiro Fujinaga. 2018. “Methodologies for Creating Symbolic Corpora of Western Music before 1600.” In Proceedings of the International Society for Music Information Retrieval Conference, 491–98. Paris, France.
+_Cumming, Julie E., Cory McKay, Jonathan Stuchbery, and Ichiro Fujinaga. 2018. “Methodologies for Creating Symbolic Corpora of Western Music before 1600.” In Proceedings of the International Society for Music Information Retrieval Conference, 491–98. Paris, France._
 
 Paper is available here: http://jmir.sourceforge.net/publications/cumming18methodologies.pdf
 
